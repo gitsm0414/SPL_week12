@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
   uint64_t result[row_size];
 
   /*** Insert your code ***/
-  // Initialize matrix & vector with random values (multi-threading not needed)
+  // Initialize matrix & vector with random values (multi-threading not needed) 
 
   // Print matrix & vector
   printf("*** Matrix ***\n");
